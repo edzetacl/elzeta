@@ -4,17 +4,11 @@ tvg-shift=0 catchup="shift" catchup-days=6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ La Liga (Test)
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ La Liga (Test2)
-https://epg.pw/stream/6aa711f1839de546c94f2caacaf635e1eb8487c56b146060b16d49ac22f41c49.ctv
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ Liga de Campeones (Test)
 https://epg.pw/stream/f605489418ff8ee54b5e47783d7dc82ce92635fc2b07d6af6f9ec28651862832.ctv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ Liga de Campeones (Test2)
-https://epg.pw/stream/46db3c61dcbd28c459a79887efcc7c9df2d13b43d499526d2981a18229d212c0.ctv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ Liga de Campeones 2 (Test)
-https://epg.pw/stream/186cc723c2d935af36715266d4e3ff89fa04b73e02ddef5fd5db2d6019612108.ctv
+http://212.224.84.217:2200/NL/mlcampeonhd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ Vamos (Test)
 http://51.158.36.81:18000/M_Vamos/hls/playlist.m3u8
@@ -23,12 +17,9 @@ http://51.158.36.81:18000/M_Vamos/hls/playlist.m3u8
 http://51.158.36.81:18000/M_Deportes/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", ESPN Deportes (Test)
-http://h7lya1.2embed.sbs/cdn/pQK39rfalBkx/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", ESPN Deportes (Test2)
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92719.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", ESPN Deportes (Test3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", ESPN Deportes (Test2)
 http://thehive.tv:25461/kevinburrell/kevinburrell22/255
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", FOX Deportes (Test)
