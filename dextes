@@ -1,46 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Eintracht Frankfurt vs Napolí
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQHjy4zIq0xx1Dght3aBIw","k":"L6wZwQGVbRD9pIuzlEhS7w"}]}
-https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031611/dash/cenc/29446/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Liverpool vs. Real Madrid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQF1A-CfKuaEFG8MfNCMUA","k":"I3JbI9RIrYPKC7oiozzEpQ"}]}
-https://live.fly.latam.hbomaxcdn.com/cmaf/live/2031610/dash/cenc/29445/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Liverpool vs. Real Madrid
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Eintracht Frankfurt vs Napolí
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Liverpool vs. Real Madrid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0l6Ozg1YsS1H7yfjHDT1ag","kid":"PVaqF2VIUI+L4eMRvCy0FA"}],"type":"temporary"}
-https://dtvott-jbc.akamaized.net/dash_live_0012/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Eintracht Frankfurt vs Napolí
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mAohsLQtaja8HJobxkOhdA","kid":"hMzdFNYzWgm8RUHkhaVvtw"}],"type":"temporary"}
-https://dtvott-jbc.akamaized.net/dash_live_0016/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ La Liga (Test)
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 
@@ -676,7 +636,6 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/Apj/U+4D9Z60lZGhXCC9Q","kid":"WAS3okyhMD2FEbbUknhhDA"}],"type":"temporary"}
 https://1117-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
@@ -1178,14 +1137,8 @@ http://myott.top/stream/DEKA6YA5JRN/333.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptr0oyK.png", Zona TUDN
 https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bIAxHGV.png", ViX 1
-https://linear-360.frequency.stream/dist/vix/360/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bIAxHGV.png", ViX 2
-https://linear-361.frequency.stream/dist/vix/361/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bIAxHGV.png", ViX 3
-https://linear-362.frequency.stream/dist/vix/362/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bIAxHGV.png", Tigo Sports
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bIAxHGV.png", ViX 4
 https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
