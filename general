@@ -1,12 +1,6 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h7ywwKc.png", Copa Libertadores [1] (Low Latency)
-http://45.232.210.1:47000/play/a07k
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h7ywwKc.png", Copa Libertadores [2] (Low Latency)
-http://170.79.235.29:8000/play/212
-
 #EXTINF:-1 tvg-id="ucv-tv.cl" tvg-logo="https://i.imgur.com/gCQU2ny.png", UCV
 https://marine2.miplay.cl/ucv3/playlist.m3u8
 
