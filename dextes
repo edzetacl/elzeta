@@ -1,6 +1,54 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", RB Leipzig vs Manchester City
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQFAnHwhgcFlCycjX_gzcQ","k":"ZsdsvE7l49Z47KapBKoJwA"}]}
+https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031611/dash/cenc/29447/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Inter vs. Porto
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQGcysCQSx1_9A2dP6hqqw","k":"KhSCN7Kw_DwgevHCIPEJaQ"}]}
+https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031610/dash/cenc/29448/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", RB Leipzig vs Manchester City
+http://170.79.235.29:8000/play/214
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Inter vs. Porto
+http://170.79.235.29:8000/play/212
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", RB Leipzig vs Manchester City
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQFVHE1t5H0F-bCcAmmTLA","k":"ELdBd2-AEP7aMLy6_K3BYQ"}]}
+https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031684/dash/cenc/29358/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Inter vs. Porto
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQHj8KErFbP9QPtQUJymOA","k":"LGXdy97b0A3DHkxaN-OcfA"}]}
+https://live.fly.latam.hbomaxcdn.com/cmaf/live/2031685/dash/cenc/29360/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", TNT Br
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0l6Ozg1YsS1H7yfjHDT1ag","kid":"PVaqF2VIUI+L4eMRvCy0FA"}],"type":"temporary"}
+https://dtvott-jbc.akamaized.net/dash_live_0012/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Space Br
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mAohsLQtaja8HJobxkOhdA","kid":"hMzdFNYzWgm8RUHkhaVvtw"}],"type":"temporary"}
+https://dtvott-jbc.akamaized.net/dash_live_0016/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ La Liga (Test)
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 
