@@ -1,6 +1,20 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png",RB Leipzig vs Manchester City
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQFAnHwhgcFlCycjX_gzcQ","k":"ZsdsvE7l49Z47KapBKoJwA"}]}
+https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031611/dash/cenc/29447/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Inter vs. Porto
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQGcysCQSx1_9A2dP6hqqw","k":"KhSCN7Kw_DwgevHCIPEJaQ"}]}
+https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031610/dash/cenc/29448/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="ucv-tv.cl" tvg-logo="https://i.imgur.com/gCQU2ny.png", UCV
 https://marine2.miplay.cl/ucv3/playlist.m3u8
 
