@@ -18,6 +18,11 @@ https://siloh-latam-aka.plutotv.net/lilo/production/EPL/5-10/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://drm3.mp.lura.live/cenc?eqp=8aDKexSIifvL2Xa3Q1A3L_jby4jczU0qb-NsJYwQwEh06IQfimNjAY8-lOPAKJIV6byFcfbsGipyGz_mA6d1_lGmvh2_10RMiUayjRhIIN5PVbRzF2XxKujf7F5xyuklKsGFxhBBcYz1vPmV68WTMza6670O9zWrygWl8iNbbjIQvHOHNEuopqHlD2LW9BDS4zPXZLpyc-o3iEkKieog2ThASWfqWY_CiE43WVLhP7_hehIyvtj97BHVRAbwpZ9NQf6HpnV276sjjnisUKAdEUdI7pGP1eAJIy5Yeh7zmAe_2LJI7YZVEHpbGYO3I0UQ&anvauth=tb=0~te=1677135150~sgn=3c87c249bb273a77cf1d079ecba028dd58d6b5bfde3e0a9ee85733c990919f47&t=1677124350
 https://dcs3-live-uc1-2.mp.lura.live/server/play/019n91h1VmpZsMe0/manifest.mpd?anvsid=m176971573-n75614538b8479e2228a34a6e2ac44a6b
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Teste2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm3.mp.lura.live/cenc?eqp=8aDKexSIifvL2Xa3Q1A3L_jby4jczU0qb-NsJYwQwEh06IQfimNjAY8-lOPAKJIV6byFcfbsGipyGz_mA6d1_lGmvh2_10RMiUayjRhIIN5PVbRzF2XxKujf7F5xyuklKsGFxhBBcYz1vPmV68WTMza6670O9zWrygWl8iNbbjIQvHOHNEuopqHlD2LW9BDS4zPXZLpyc-o3iEkKieog2ThASWfqWY_CiE43WVLhP7_hehIyvtj97BHVRAbwpZ9NQf6HpnV276sjjnisUKAdEUdI7pGP1eAJIy5Yeh7zmAe_2LJI7YZVEHpbGYO3I0UQ&anvauth=tb=0~te=1677135150~sgn=3c87c249bb273a77cf1d079ecba028dd58d6b5bfde3e0a9ee85733c990919f47&t=1677124350
+https://dcs3-live-uc1-2.mp.lura.live/server/play/019n91h1VmpZsMe0/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ La Liga (Test)
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 
