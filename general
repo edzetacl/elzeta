@@ -1210,11 +1210,14 @@ https://1261-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNr2Im6.png", CHV Deportes (Pluto)
 https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/CHILE/24-7/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fNr2Im6.png", CHV Deportes (Pluto)
-https://mdstrm.com/live-stream-playlist-v/5c6c302a414cc5496c9d7d79.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJwMsqY.png", Pluto Libertadores
+https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/ROLA/24-7/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YQ7N6Pn.png", Telefe Deportes (Pluto)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15SLhCR.png", Telefe Deportes (Pluto)
 https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/ARG/24-7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJwMsqY.png", Premier en Paramount+
+https://siloh-latam-aka.plutotv.net/lilo/production/EPL/5-10/master.m3u8
 
 #EXTINF:-1 tvg-id="1605dtv.ar", tvg-logo="https://i.imgur.com/gxpQprg.png", Fox Sports Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
