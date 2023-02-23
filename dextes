@@ -1,6 +1,18 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNr2Im6.png", CHV Deportes (Pluto)
+https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/CHILE/24-7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJwMsqY.png", Pluto Libertadores
+https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/ROLA/24-7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nDwZRv.png", Telefe Deportes (Pluto)
+https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/ARG/24-7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJwMsqY.png", Premier en Paramount+
+https://siloh-latam-aka.plutotv.net/lilo/production/EPL/5-10/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ La Liga (Test)
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 
