@@ -732,7 +732,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9DM9-w5wjsmGW5pv8qjgaA","kid":"fDjZMQ08W0ajejm77G3Wig"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="204dtv.ar", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel (Feed Chile)
+#EXTINF:-1 tvg-id="202dtv.cl", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel (Feed Chile)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1165,7 +1165,7 @@ https://1109-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_key=b195be74361834d9aff2e13ac0260a36:a6af584b36df51fba33b3e8661f5505a
 https://1260-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="ESPNColombia.co" tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Colombia
+#EXTINF:-1 tvg-id="621dtv.co" tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Colombia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1225,12 +1225,6 @@ https://siloh-latam-aka.plutotv.net/lilo/production/EPL/5-10/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dr6BBB5xM6OEV_CX0rAEHA","k":"jO2EbJ7_1W1-KpJ2IkuzxQ"}]}
 https://1118-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="606dtv.ar", tvg-logo="https://i.imgur.com/gXlnwgh.png", Fox Sports 2 Argentina
-https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="3081dtv.cl", tvg-logo="https://i.imgur.com/muijUMb.png", Fox Sports 3 Argentina
-https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-logo="https://i.imgur.com/CYb3ifm.png", Fox Sports 1 Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
