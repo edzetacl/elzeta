@@ -941,7 +941,7 @@ http://live.entel.cl/3396/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 https://1007-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGMDhqR.png", Clover Channel
-http://190.43.92.155:8000/play/a0t1/index.m3u8
+http://161.132.101.134:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="504dtv.cl", tvg-logo="https://i.imgur.com/WAjfEWH.png", Turner Classic Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
