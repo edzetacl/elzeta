@@ -1412,7 +1412,11 @@ https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd|User-Agent="Mozilla
 https://1240-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KKrgzI3.png", TyC Sports Internacional
-http://186.3.76.238:8000/play/a0c3/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2sXoln28U0M6eIauzZL4Og","kid":"q6I7Uw2bVMmmVtLykSdK/w"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1273/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="VTV.uy", tvg-logo="https://i.imgur.com/g7MXbfO.png", VTV (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
