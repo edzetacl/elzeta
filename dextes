@@ -43,6 +43,9 @@ http://thehive.tv:25461/kevinburrell/kevinburrell22/255
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", FOX Deportes (Test)
 http://143.244.60.30/FOXDEPORTES/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BeIn Sports
+http://live.maxcimo.com:8000/wJuventus9588/5158oycesz658po/4758
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", SportTV1 PT
 http://213.13.16.138/shls/LIVE$SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
@@ -61,11 +64,14 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Eleven 3 PT
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Eleven 3 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Eleven 4 PT
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Eleven 4 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Eleven 5 PT
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Eleven 6 PT
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Liga Saudi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
