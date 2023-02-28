@@ -16,23 +16,14 @@ https://siloh-latam-aka.plutotv.net/lilo/production/EPL/5-10/master.m3u8
 #EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ La Liga (Test)
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ La Liga Smartbank (Test)
-http://212.224.84.217:2200/NL/daznlaliga2-esp/tracks-v1a1/mono.m3u8?token=fwBlCndpe3ZiDXBiN3VjewVhf3FmenNhfnAXeHAtenVmfXtoenNieA%3D%3D
-
 #EXTINF:-1 tvg-id="mpluslcampeones.es" tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ Liga de Campeones (Test)
 https://epg.pw/stream/f605489418ff8ee54b5e47783d7dc82ce92635fc2b07d6af6f9ec28651862832.ctv
-
-#EXTINF:-1 tvg-id="mpluslcampeones.es" tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ Liga de Campeones (Test2)
-http://212.224.84.217:2200/NL/mlcampeonhd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
 #EXTINF:-1 tvg-id="mplus#vamos.es" tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ Vamos (Test)
 http://51.158.36.81:18000/M_Vamos/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ Deportes (Test)
 http://51.158.36.81:18000/M_Deportes/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ Deportes (Test2)
-http://212.224.84.217:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=fwBlCndpe3BpD3tnN3cSfwJlc3NicwdpfT9gfXRhe3ppenZg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", ESPN Deportes (Test)
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92719.ts
@@ -43,34 +34,31 @@ http://thehive.tv:25461/kevinburrell/kevinburrell22/255
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", FOX Deportes (Test)
 http://143.244.60.30/FOXDEPORTES/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BeIn Sports
-http://live.maxcimo.com:8000/wJuventus9588/5158oycesz658po/4758
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", SportTV1 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SDXiSsq.png", SportTV1 🇵🇹
 http://213.13.16.138/shls/LIVE$SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", SportTV2 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SDXiSsq.png", SportTV2 🇵🇹
 http://213.13.16.138/shls/LIVE$SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", SportTV3 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SDXiSsq.png", SportTV3 🇵🇹
 http://213.13.16.138/shls/LIVE$SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Eleven 1 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8k48g2C.png", Eleven Sports 1 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Eleven 2 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8k48g2C.png", Eleven Sports 2 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Eleven 3 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8k48g2C.png", Eleven Sports 3 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Eleven 4 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8k48g2C.png", Eleven Sports 4 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Eleven 5 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8k48g2C.png", Eleven Sports 5 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Eleven 6 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8k48g2C.png", Eleven Sports 6 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Liga Saudi
@@ -157,11 +145,17 @@ https://dtvott-jbc.akamaized.net/dash_live_0016/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3nx5MKqFBJ98t779vNxU3Q","kid":"OtPcoQMYWTSs/3oOkADBEg"}],"type":"temporary"}
 https://dtvott-jbc.akamaized.net/dash_live_0035/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Sky Sports Premier League
-http://212.224.84.217:2200/EX/Sky_Sports_Premier_League_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BT Sport 1
+http://195.154.179.234:1234/stream/btsport1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BT Sport 2
+http://195.154.179.234:1234/stream/btsport2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BT Sport 3
+http://195.154.179.234:1234/stream/btsport3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Sky Sports Football
-http://212.224.84.217:2200/EX/Sky_Sports_Football_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==
+http://195.154.179.234:1234/stream/skyspfootbol/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9Jaid7.png", V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1149,9 +1143,6 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29FmZW3.png", NBC Universo
-http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/3757.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29FmZW3.png", NBC Universo
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57339
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29FmZW3.png", NBC Universo
@@ -1178,7 +1169,7 @@ http://66.70.176.103:8081/USA%7CNBCSPORTSBOSTONCH/USA%7CNBCSPORTSBOSTONCH/playli
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2djAuV3.png", NBC Sports California
 http://66.70.176.103:8081/USA%7CNBCNCALIFORNIA/USA%7CNBCNCALIFORNIA/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJo91xq.png", NBC Sports Washinton
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJo91xq.png", NBC Sports Washington
 http://66.70.176.103:8081/USA%7CNBCSPORTSWASHINGTONCH/USA%7CNBCSPORTSWASHINGTONCH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Setanta Sport
