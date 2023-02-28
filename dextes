@@ -34,6 +34,9 @@ http://thehive.tv:25461/kevinburrell/kevinburrell22/255
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", FOX Deportes (Test)
 http://143.244.60.30/FOXDEPORTES/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", C11 🇵🇹
+http://213.13.16.136/shls/LIVE%24C11_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDXiSsq.png", SportTV1 🇵🇹
 http://213.13.16.138/shls/LIVE$SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
@@ -42,6 +45,15 @@ http://213.13.16.138/shls/LIVE$SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDXiSsq.png", SportTV3 🇵🇹
 http://213.13.16.138/shls/LIVE$SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SDXiSsq.png", SportTV4 🇵🇹
+http://213.13.16.133/shls/LIVE$SPORTTVLive_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SDXiSsq.png", SportTV5 🇵🇹
+http://213.13.16.133/shls/LIVE$SPORTTV_GOLFE_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SDXiSsq.png", SportTV6 🇵
+http://213.13.16.134/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8k48g2C.png", Eleven Sports 1 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
