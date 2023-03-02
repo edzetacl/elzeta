@@ -157,18 +157,6 @@ https://dtvott-jbc.akamaized.net/dash_live_0016/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3nx5MKqFBJ98t779vNxU3Q","kid":"OtPcoQMYWTSs/3oOkADBEg"}],"type":"temporary"}
 https://dtvott-jbc.akamaized.net/dash_live_0035/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BT Sport 1
-http://195.154.179.234:1234/stream/btsport1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BT Sport 2
-http://195.154.179.234:1234/stream/btsport2/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BT Sport 3
-http://195.154.179.234:1234/stream/btsport3/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Sky Sports Football
-http://195.154.179.234:1234/stream/skyspfootbol/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9Jaid7.png", V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
