@@ -13,6 +13,13 @@ https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/ARG/24-7/ma
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJwMsqY.png", Premier en Paramount+
 https://siloh-latam-aka.plutotv.net/lilo/production/EPL/5-10/master.m3u8
 
+#EXTINF:-1 tvg-id="la1.es" tvg-logo="https://i.imgur.com/v7zcQxT.png", La 1 España
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gycXR1sqURW3-VsAWgzgpw","k":"EDMcSqASkkZXJhpPkI-sIw"},{"kty":"oct","kid":"ouM52dqBV9-QsE6xKw7wgg","k":"43f2pxhvIro1sLVrr2XQ9Q"},{"kty":"oct","kid":"6LmGYdzuVwa6PpwxnaXu_A","k":"CJFMPdStFajMbqqlqy6spg"}]}
+https://live-tcsgra.thechannel.store/la1-neutra/la1-neutra.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="https://i.imgur.com/6YbSnUc.png", M+ La Liga (Test)
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 
