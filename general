@@ -1208,16 +1208,16 @@ https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd|User-Agent="Mozilla
 https://1261-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNr2Im6.png", CHV Deportes (Pluto)
-https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/CHILE/24-7/master.m3u8
+https://siloh.pluto.tv/lilo/production/CopaLibertadores/CHILE/24-7/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJwMsqY.png", Pluto Libertadores
-https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/ROLA/24-7/master.m3u8
+https://siloh.pluto.tv/lilo/production/CopaLibertadores/ROLA/24-7/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8nDwZRv.png", Telefe Deportes (Pluto)
-https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/ARG/24-7/master.m3u8
+https://siloh.pluto.tv/lilo/production/CopaLibertadores/ARG/24-7/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJwMsqY.png", Premier en Paramount+
-https://siloh-latam-aka.plutotv.net/lilo/production/EPL/5-10/master.m3u8
+https://siloh.pluto.tv/lilo/production/EPL/5-10/master.m3u8
 
 #EXTINF:-1 tvg-id="1605dtv.ar", tvg-logo="https://i.imgur.com/gxpQprg.png", Fox Sports Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
