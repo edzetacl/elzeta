@@ -1,6 +1,40 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,https://epg.programadorx.cl/mdiaz/gratis.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Chelsea vs. Borussia Dortmund 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQF6niIBurjUtewRz38ZWg","k":"Lvnvd3Vvk_-Z7SGulNIRQg"}]}
+https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031610/dash/cenc/29596/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Chelsea vs. Borussia Dortmund 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQF-uLiOejWnv6Szlg7FNw","k":"UOwMkHBtIO8xGCGbkcqqEg"}]}
+https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031684/dash/cenc/29335/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Chelsea vs. Borussia Dortmund
+http://170.79.235.29:8000/play/212
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Benfica vs Club Brugge
+http://170.79.235.29:8000/play/214
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Benfica vs Club Brugge 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQExm4xC3u_fqAQzTbvSZQ","k":"u3FWye4EL1N5bJqO_mOMSA"}]}
+https://live.fly.latam.hbomaxcdn.com/cmaf/live/2031611/dash/cenc/29595/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Benfica vs Club Brugge 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQEw3hfqmjl7ie40FjCCOQ","k":"oD7UFDc7J6R5Amo6ne-eEA"}]}
+https://live.fly.latam.hbomaxcdn.com/cmaf/live/2031686/dash/cenc/29339/master.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNr2Im6.png", CHV Deportes (Pluto)
 https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/CHILE/24-7/master.m3u8
 
@@ -38,22 +72,8 @@ http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92719.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", ESPN Deportes (Test2)
 http://thehive.tv:25461/kevinburrell/kevinburrell22/255
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", ESPN Deportes (Test3)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
-https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", FOX Deportes (Test)
 http://143.244.60.30/FOXDEPORTES/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", FOX Deportes (Test2)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
-https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", C11 🇵🇹
 http://213.13.16.136/shls/LIVE%24C11_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -178,27 +198,6 @@ https://dtvott-jbc.akamaized.net/dash_live_0016/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3nx5MKqFBJ98t779vNxU3Q","kid":"OtPcoQMYWTSs/3oOkADBEg"}],"type":"temporary"}
 https://dtvott-jbc.akamaized.net/dash_live_0035/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z9Jaid7.png", V Sports Premium
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1byekvIU13Ugq3+qHsrRCw","kid":"y9E7eog+U+mNXH800AE76A"}],"type":"temporary"}
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wWVPVAX.png", V Sports Xtra
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
-https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xX6IG7I.png", V Sports Football
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zjfiA3TlW-a7TSaDevJ2BQ","k":"UsxTL3SPy_K4BtrUKJv4TA"}]}
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RC4aMZC.png", V Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -298,7 +297,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd|User-
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i.imgur.com/YcZ6VfT.png", Dazn 1 🇪🇸 (2)
-http://51.178.36.235:49214/DAZN_1/hls/playlist.m3u8
+http://51.158.36.81:18000/DAZN_1/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://i.imgur.com/Hd1tcp4.png", Dazn 2 🇪🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -308,13 +307,13 @@ http://51.178.36.235:49214/DAZN_1/hls/playlist.m3u8
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://i.imgur.com/Hd1tcp4.png", Dazn 2 🇪🇸 (2)
-http://51.178.36.235:49214/DAZN_2/hls/playlist.m3u8
+http://51.158.36.81:18000/DAZN_2/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dazn3.es" tvg-logo="https://i.imgur.com/JxwHSE5.png", DAZN 3 🇪🇸
-http://51.178.36.235:49214/DAZN_3/hls/playlist.m3u8
+http://51.158.36.81:18000/DAZN_3/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dazn4.es" tvg-logo="https://i.imgur.com/JxwHSE5.png", DAZN 4 🇪🇸
-http://51.178.36.235:49214/DAZN_4/hls/playlist.m3u8
+http://51.158.36.81:18000/DAZN_4/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="daznf1.es" tvg-logo="https://i.imgur.com/cz83rVf.png", Dazn F1 🇪🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
