@@ -1,40 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,https://epg.programadorx.cl/mdiaz/gratis.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Chelsea vs. Borussia Dortmund 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQF6niIBurjUtewRz38ZWg","k":"Lvnvd3Vvk_-Z7SGulNIRQg"}]}
-https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031610/dash/cenc/29596/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Chelsea vs. Borussia Dortmund 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQF-uLiOejWnv6Szlg7FNw","k":"UOwMkHBtIO8xGCGbkcqqEg"}]}
-https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031684/dash/cenc/29335/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Chelsea vs. Borussia Dortmund
-http://170.79.235.29:8000/play/212
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Benfica vs Club Brugge
-http://170.79.235.29:8000/play/214
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Benfica vs Club Brugge 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQExm4xC3u_fqAQzTbvSZQ","k":"u3FWye4EL1N5bJqO_mOMSA"}]}
-https://live.fly.latam.hbomaxcdn.com/cmaf/live/2031611/dash/cenc/29595/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34LuK1c.png", Benfica vs Club Brugge 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQEw3hfqmjl7ie40FjCCOQ","k":"oD7UFDc7J6R5Amo6ne-eEA"}]}
-https://live.fly.latam.hbomaxcdn.com/cmaf/live/2031686/dash/cenc/29339/master.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNr2Im6.png", CHV Deportes (Pluto)
 https://siloh.pluto.tv/lilo/production/CopaLibertadores/CHILE/24-7/master.m3u8
 
@@ -553,7 +519,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1107/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key=534d488852b3330284307d1a3ca0fd3b:2d1d2a12454b682df197ff26ff5253a5
 https://1109-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="621dtv.pe" tvg-logo="https://i.imgur.com/34LuK1c.png", ESPN 🇵🇪 (LL)
+#EXTINF:-1 tvg-id="621dtv.pe" tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN 🇵🇪 (LL)
 http://170.79.235.29:8000/play/212
 
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://i.imgur.com/OHR99lF.png", ESPN 2 🇵🇪
@@ -607,6 +573,9 @@ https://1103-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WbJpuAvs0DYwemBdmTgWDw","kid":"UiK9jCiYWTmC_CVQ5JOqaQ"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://i.imgur.com/GrINQnV.png", ESPN 4 (LL)
+http://170.79.235.29:8000/play/218
 
 #EXTINF:-1 tvg-id="1604dtv.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium 🇦🇷
 #KODIPROP:inputstreamaddon=inputstream.adaptive
