@@ -474,8 +474,8 @@ http://45.232.210.1:8062/play/a08a/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zzjSAn3jr/zpUa/L1YNFjQ","kid":"F0PNcQHHPimDupKPv87DBw"}],"type":"temporary"}
 https://1231-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="tntsports3.cl", tvg-logo="https://i.imgur.com/dcIUP0O.png", TNT Sports 3 🇨🇱 (SD)
-http://45.232.210.1:8062/play/a08x/index.m3u8
+#EXTINF:-1 tvg-id="tntsports3.cl", tvg-logo="https://i.imgur.com/dcIUP0O.png", TNT Sports 3 🇨🇱 (BTR)
+http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="1175dtv.cl", tvg-logo="https://i.imgur.com/4zbQAOF.png",, ESPN 🇨🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1155,6 +1155,9 @@ http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playli
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OffhnbU.png", NBC Sports Philadelphia
 http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OffhnbU.png", NBC Sports Philadelphia
+https://188a2110c0c0aa3d.mediapackage.us-east-2.amazonaws.com/out/v1/8af1271b5d214f488d393cd748f09517/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sdlJp9u.png", NBC Sports Chicago
 http://66.70.176.103:8081/USA%7CNBCSPORTSCHICAGOCH/USA%7CNBCSPORTSCHICAGOCH/playlist.m3u8
 
@@ -1166,6 +1169,9 @@ http://66.70.176.103:8081/USA%7CNBCNCALIFORNIA/USA%7CNBCNCALIFORNIA/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJo91xq.png", NBC Sports Washington
 http://66.70.176.103:8081/USA%7CNBCSPORTSWASHINGTONCH/USA%7CNBCSPORTSWASHINGTONCH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJo91xq.png", NBC Sports Washington
+https://c75a7e79204e539d.mediapackage.us-east-1.amazonaws.com/out/v1/c3eaed45726949b69474e057799019e4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Setanta Sport
 https://livetv.mylifeisgood.ml/channels/setantahd
