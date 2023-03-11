@@ -44,8 +44,22 @@ http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92719.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", ESPN Deportes (Test2)
 http://thehive.tv:25461/kevinburrell/kevinburrell22/255
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", ESPN Deportes (Test3)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
+https://sonate.x10.mx/j4iw/mp.php/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", FOX Deportes (Test)
 http://143.244.60.30/FOXDEPORTES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", FOX Deportes (Test2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
+https://sonate.x10.mx/j4iw/mp.php/https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", C11 🇵🇹
 http://213.13.16.136/shls/LIVE%24C11_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
