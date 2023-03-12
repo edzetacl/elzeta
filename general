@@ -50,7 +50,7 @@ https://dtvott-akaws.akamaized.net/live_1040/DASH/manifest.mpd|User-Agent="Mozil
 https://1030-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="774dtv.co", tvg-logo="https://i.imgur.com/2Z1f7cH.png", TV Chile
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+https://mdstrm.com/live-stream-playlist-v/533adcc949386ce765657d7c.m3u8
 
 #EXTINF:-1 tvg-id="RecTV.cl", tvg-logo="https://i.imgur.com/7Gg0WNp.png",Rec TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
