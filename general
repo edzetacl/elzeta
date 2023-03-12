@@ -823,7 +823,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1226/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p+vgzB2mncwwDxn3tKYoxw","kid":"jMuK9Kh4Vw2IeJIbhKvuGQ"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="508dtv.cl", tvg-logo="https://i.imgur.com/yBYHJuJ.png", Studio Universal (DTV)
+#EXTINF:-1 tvg-id="508dtv.cl", tvg-logo="https://i.imgur.com/yBYHJuJ.png", Studio Universal
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1247,21 +1247,21 @@ https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nh0ICbXpZph96u1V_SYxrQ","kid":"KQHEHb_IWqaibbKcxWvCxg"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="fox-sports.mx", tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports Mx (DTV)
+#EXTINF:-1 tvg-id="fox-sports.mx", tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gG8YHFRdzJsugpWGbX_LWA","kid":"7t4TEF53XPGOetIFeKtwHA"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-logo="https://i.imgur.com/yedU8Gq.png", Fox Sports 2 Mx (DTV)
+#EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-logo="https://i.imgur.com/yedU8Gq.png", Fox Sports 2 Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xo1p7aggA9CV1GaiSSt9Dg","kid":"S1aen4JmVC+j9ALDBXy5jA"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1120/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="fox-sports-3.mx" tvg-logo="https://i.imgur.com/GvWFYrE.png", Fox Sports 3 Mx (DTV)
+#EXTINF:-1 tvg-id="fox-sports-3.mx" tvg-logo="https://i.imgur.com/GvWFYrE.png", Fox Sports 3 Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1418,7 +1418,7 @@ https://1240-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2sXoln28U0M6eIauzZL4Og","kid":"q6I7Uw2bVMmmVtLykSdK/w"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1273/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="VTV.uy", tvg-logo="https://i.imgur.com/g7MXbfO.png", VTV (DTV)
+#EXTINF:-1 tvg-id="VTV.uy", tvg-logo="https://i.imgur.com/g7MXbfO.png", VTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1602,7 +1602,7 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-039/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VyV5krv.png", Carolina TV
-https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+https://mdstrm.com/live-stream-playlist-v/63a06468117f42713374addd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VyV5krv.png", Carolina TV 2
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
@@ -1635,16 +1635,16 @@ https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd|User-Agent="Moz
 https://1165-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="261dtv.cl" tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP1)
-http://iptv.prosto.tv:7000/ch126/video.m3u8
-
-#EXTINF:-1 tvg-id="261dtv.cl" tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP2)
 http://181.189.243.254:8000/play/a0pn/index.m3u8
 
-#EXTINF:-1 tvg-id="261dtv.cl" tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP3)
+#EXTINF:-1 tvg-id="261dtv.cl" tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP1)
 http://85.11.144.9:4222/MTVHits?token=test
 
+#EXTINF:-1 tvg-id="261dtv.cl" tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP3)
+http://45.5.118.213:16000/play/a0m3/index.m3u8
+
 #EXTINF:-1 tvg-id="261dtv.cl" tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits (OP4)
-http://181.189.246.86:58003/play/a00t/index.m3u8
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/153/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y1EOpuU.png", MTV Classic E
 http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/417897
@@ -1662,10 +1662,13 @@ http://143.244.60.30/MTVCLASSIC/index.m3u8
 https://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP2)
-http://181.189.246.86:58003/play/a00u/index.m3u8
+http://45.5.118.213:16000/play/a0m4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP3)
 http://livetv.mylifeisgood.ml/channels/mtv80s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4rx84I.png", MTV 80s (OP4)
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/724/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DOMYSRo.png", MTV 90s (OP1)
 http://myott.top/stream/DEKA6YA5JRN/88.m3u8
@@ -1694,10 +1697,10 @@ https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd|User-Agent="Mozilla/5.
 https://tvup-live.secure.footprint.net/mtv00s/mtv00s.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="262dtv.cl" tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP4)
-http://181.189.246.86:58003/play/a045/index.m3u8
+http://168.121.46.90:4000/play/a07w/index.m3u8
 
 #EXTINF:-1 tvg-id="262dtv.cl" tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s (OP5)
-http://51.178.36.235:49214/MTV_00s/hls/playlist.m3u8
+http://51.158.36.81:18000/MTV_00s/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="263dtv.cl" tvg-logo="https://i.imgur.com/FLJrxDl.png", MTV Live HD
 http://181.189.243.254:8000/play/a0sv/index.m3u8
@@ -1711,7 +1714,7 @@ http://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd|User-Agent="Mozill
 #EXTINF:-1 tvg-id="263dtv.cl" tvg-logo="https://i.imgur.com/FLJrxDl.png", MTV Live HD (OP3)
 http://45.228.234.77:4430/play/mtvhits
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png", MTV Live USA (Test)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JFqo6z0.png", MTV Live USA (Test)
 http://143.244.60.30/MTVLIVE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6N5HSrH.png", Club MTV
@@ -1723,17 +1726,17 @@ http://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd|User-Agent="Mozil
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6N5HSrH.png", Club MTV (OP2)
 http://85.11.144.9:4222/MTVDance?token=test
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6N5HSrH.png", Club MTV (OP3)
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/558/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uf6Z4Sn.png", VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?wmsAuthSign=InspirationLinks
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pY0ftvf.png", VIVA Russia
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UATrOfa.png", Stingray Qello
 https://siloh-latam-aka.plutotv.net/lilo/production/Qello/LATAM/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UATrOfa.png", Stingray Qello (OP2)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1015
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UATrOfa.png", Stingray Qello (OP3)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2126
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXZ7CwK.png", Stingray iConcerts
 http://myott.top/stream/DEKA6YA5JRN/267.m3u8
@@ -1765,18 +1768,21 @@ http://170.79.235.29:8000/play/134
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgF53NJ.png", Trace Urban
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3294
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xgF53NJ.png", Trace Urban (OP2)
+https://d3b13j525hja2q.cloudfront.net/23073/Urban_Asia/encrypted/4/prog_index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r8C0ymx.png", Trace Latina
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3297
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgJrsv1.png", Trace Brazuca
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3298
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Bis Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nwaJIUF.png", Bis Brasil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2ChmUZ7tdrJQnj+CsmVYwA","kid":"0A9Afzk5W8GzcYaDwx5YNw"}],"type":"temporary"}
-https://0055-jbc.dtvott.com/dash_live_0055/manifest.mpd
+https://0055-jbc.dtvott.com/dash_live_0055/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="la1.es" tvg-logo="https://i.imgur.com/v7zcQxT.png", La 1 España
 #KODIPROP:inputstreamaddon=inputstream.adaptive
